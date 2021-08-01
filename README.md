@@ -1,8 +1,8 @@
-# Descriptive-Statistics-with-R
+# Descriptive Statistics with R Software 💯
 
 ## This repo will help you in understanding basics of Statistics alongside getting your hands in R 
 
-## Following are the topics you'll find here :
+## Topics you'll find here :
 
 #### 1. Introduction to R 
 #### 2. Basic Calculation such as math operations, matrices, some functions etc
