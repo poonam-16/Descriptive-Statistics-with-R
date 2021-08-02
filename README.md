@@ -13,3 +13,7 @@
 #### 7. Moments, Skewness, Kurtosis
 #### 8. Association of two variables - Correlation Co-efficient, Chi-square statistic, Cramer's V statistic, Contingency co-efficient etc
 #### 9. Fitting Linear Model
+
+
+### and ofcourse assignments ...
+## Hope this helps :)
