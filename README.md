@@ -2,11 +2,11 @@
 
 ## This repo will help you in understanding basics of Statistics alongside getting your hands in R 
 
-## Topics you'll find here :
+## 📌 Topics you'll find here :
 
-#### 1. Introduction to R 
-#### 2. Basic Calculation such as math operations, matrices, some functions etc
-#### 3. Frequency Distribution
+#### 1. Introduction to R ✔️
+#### 2. Basic Calculation such as math operations, matrices, some functions etc ✔️
+#### 3. Frequency Distribution ✔️
 #### 4. Bar plot, Pie chart (2D & 3D), Histogram, Kernal Density Plot, Stem - leaf Plot etc
 #### 5. Measures of Central Tendency - Arithmetic Mean, Median, Quantile, etc
 #### 6. Measures of Variation - Variance, Standard Deviation, Range, Interquartile range etc
@@ -15,5 +15,5 @@
 #### 9. Fitting Linear Model
 
 
-### and ofcourse assignments ...
+### and ofcourse assignments 🤩
 ## Hope this helps :)
