@@ -15,5 +15,5 @@
 #### 9. Fitting Linear Model 
 
 
-### and ofcourse assignments 🤩
+### ofcourse with notes 📚 & assignments 🤩
 ## Hope this helps :)
